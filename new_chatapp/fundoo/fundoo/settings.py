@@ -105,7 +105,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cfpdatabase',
         'USER': 'dinesh',
-        'PASSWORD': 'Kumar98$',
+        'PASSWORD': 'kumar1998',
         'HOST': 'database-cfp.chwp8r5ak5vc.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
